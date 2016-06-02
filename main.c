@@ -12,3 +12,11 @@ void FeatureY()
 void FeatureY1()
 {
 }
+
+void FeatureZ()
+{
+}
+
+void FeatureZ1()
+{
+}
