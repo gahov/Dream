@@ -12,3 +12,7 @@ void FeatureX()
 void FeatureX1()
 {
 }
+
+void FeatureX2()
+{
+}
