@@ -5,6 +5,6 @@ int main(int argc, int **argv)
 }
 
 
-void NewFuunctionY()
+void FeatureX()
 {
 }
