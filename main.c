@@ -20,3 +20,11 @@ void FeatureZ()
 void FeatureZ1()
 {
 }
+
+void FeatureZ2()
+{
+}
+
+void FeatureZ3()
+{
+}
