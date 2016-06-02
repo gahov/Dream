@@ -8,3 +8,7 @@ int main(int argc, int **argv)
 void FeatureX()
 {
 }
+
+void FeatureX1()
+{
+}
